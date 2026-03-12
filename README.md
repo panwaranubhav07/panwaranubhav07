@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋 I'm Anubhav Panwar
 
-<!--
-**panwaranubhav07/panwaranubhav07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI Engineer | LLM Evaluator | Prompt Engineer
 
-Here are some ideas to get you started:
+## 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Working on AI Automation
+- 🤖 Building Agentic AI Projects
+- 🧠 LLM Evaluation Specialist
+- 🌱 Learning Advanced AI Systems
+
+## 🛠 Skills
+
+- Python
+- Prompt Engineering
+- AI Automation
+- Machine Learning
+- Git & GitHub
+
+## 🚀 Projects
+
+- AI Interview Simulator
+- LLM Evaluation Toolkit
+- AI Automation Scripts
+
+## 📫 Connect With Me
+
+LinkedIn: https://linkedin.com  
+Portfolio: https://yourportfolio.com
+
+## ⚡ GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=panwaranubhav07&show_icons=true)
