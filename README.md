@@ -1,32 +1,48 @@
 # Hi 👋 I'm Anubhav Panwar
 
-🚀 AI Engineer | LLM Evaluator | Prompt Engineer
+🚀Legal & Math AI Evaluation Specialist | RLHF | LLM Response Evaluation | Hindi-English QA
 
-## 🧠 About Me
+## 👋 About Me
 
-- 🔭 Working on AI Automation
-- 🤖 Building Agentic AI Projects
-- 🧠 LLM Evaluation Specialist
-- 🌱 Learning Advanced AI Systems
+I evaluate Large Language Models (LLMs) for:
+
+- ⚖️ Legal Reasoning
+- 🧮 Mathematical Reasoning
+- 🤖 RLHF & Preference Ranking
+- 🔍 Hallucination Detection
+- 🌐 Hindi-English AI Evaluation
+- ✅ Annotation Quality Assurance
+
+Currently building public AI evaluation benchmarks and tools to demonstrate real-world evaluation skills.
 
 ## 🛠 Skills
 
 - Python
-- Prompt Engineering
-- AI Automation
-- Machine Learning
 - Git & GitHub
+- JSON / JSONL
+- Pandas
+- LLM Evaluation
+- RLHF
+- Prompt Engineering
+- Legal AI Evaluation
+- Math Reasoning
+- Hallucination Detection
+- AI Data Annotation
+- Label Studio
+- CVAT
 
-## 🚀 Projects
+## 🚀 Current Projects
 
-- AI Interview Simulator
-- LLM Evaluation Toolkit
-- AI Automation Scripts
+- LegalAI-Hallucination-Benchmark
+- MathReasoning-Eval-Harness
+- RLHF-Preference-Ranking-Studio
+- HindiEnglish-QA-Suite
+- CVAT-Annotation-QA-Dashboard
 
 ## 📫 Connect With Me
 
-LinkedIn: https://linkedin.com  
-Portfolio: https://yourportfolio.com
+- LinkedIn: https://www.linkedin.com/in/anubhav-panwar/  
+- Email: panwaranubhav07@gmail.com
 
 ## ⚡ GitHub Stats
 
