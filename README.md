@@ -46,4 +46,4 @@ Currently building public AI evaluation benchmarks and tools to demonstrate real
 
 ## ⚡ GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=panwaranubhav07&show_icons=true)
+![Anubhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=panwaranubhav07&show_icons=true&theme=github_dark)
