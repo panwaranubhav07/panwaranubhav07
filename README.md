@@ -1,49 +1,19 @@
-# Hi 👋 I'm Anubhav Panwar
+# Anubhav Panwar
 
-🚀Legal & Math AI Evaluation Specialist | RLHF | LLM Response Evaluation | Hindi-English QA
+**AI Evaluation Specialist | Legal AI · LLM Evaluation · Software & Benchmark QA**
 
-## 👋 About Me
+I review AI responses and coding solutions against clear evaluation criteria. My background in information technology, law, and cyber law informs how I check sources, test edge cases, and document failures.
 
-I evaluate Large Language Models (LLMs) for:
+## Selected work
 
-- ⚖️ Legal Reasoning
-- 🧮 Mathematical Reasoning
-- 🤖 RLHF & Preference Ranking
-- 🔍 Hallucination Detection
-- 🌐 Hindi-English AI Evaluation
-- ✅ Annotation Quality Assurance
+**[Coding Agent Evaluation Work Sample](https://github.com/panwaranubhav07/coding-agent-evaluation-sample)**  
+Run a small Python benchmark and inspect a failure where deduplicating by ID silently drops a valid CSV row. The sample includes synthetic fixtures, regression tests, and a worked reviewer note.
 
-Currently building public AI evaluation benchmarks and tools to demonstrate real-world evaluation skills.
+## Evaluation experience
 
-## 🛠 Skills
+- **Legal AI** — Citation verification, source grounding, jurisdiction fit, and unsupported claims.
+- **LLM evaluation and RLHF** — Side-by-side preference ranking, rubric-based feedback, and Hindi-English language QA.
+- **Software and benchmark QA** — Coding solution review, edge cases, regression evidence, and defect reporting.
+- **GenAI security evaluation** — Review of authorization boundaries, sensitive information disclosure, and agent actions.
 
-- Python
-- Git & GitHub
-- JSON / JSONL
-- Pandas
-- LLM Evaluation
-- RLHF
-- Prompt Engineering
-- Legal AI Evaluation
-- Math Reasoning
-- Hallucination Detection
-- AI Data Annotation
-- Label Studio
-- CVAT
-
-## 🚀 Current Projects
-
-- LegalAI-Hallucination-Benchmark
-- MathReasoning-Eval-Harness
-- RLHF-Preference-Ranking-Studio
-- HindiEnglish-QA-Suite
-- CVAT-Annotation-QA-Dashboard
-
-## 📫 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/anubhav-panwar/  
-- Email: panwaranubhav07@gmail.com
-
-## ⚡ GitHub Stats
-
-![Anubhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=panwaranubhav07&show_icons=true&theme=github_dark)
+[LinkedIn](https://www.linkedin.com/in/anubhav-panwar-/) · [Email](mailto:panwaranubhav07@gmail.com)
